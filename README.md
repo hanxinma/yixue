@@ -1,37 +1,25 @@
 # 易学码
 
 #### 介绍
-易学码是一种双拼全拼打字不用选字的超级简单不用学的打字辅助码
+易学码是一种双拼全拼打字 不用选字 的超级简单 不用学的打字辅助码
 
 #### 软件架构
-软件架构说明
+主要挂各大输入法软件里使用，也可以自己用我们提供的音形工具转成自己的音形输入法
 
 
 #### 安装教程
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+见官网
 
 #### 使用说明
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+见官网
 
-#### 参与贡献
+#### 易学辅助码的特点
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+就是超级简单，平均一个键只有一个字根。
 
+然后规则也简单，不用学看看，就可以直接用。
 
-#### 特技
+特别适合不想学辅助码的人。
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
